@@ -4,4 +4,4 @@ This challenge is about refactoring an existing webpage and make it accessible. 
 
 The following image shows the web application's appearance and functionality:
 
-![SEO](https://github.com/ciyer87/code-refactor-challenge/raw/main/assets/images/challenge1-screenshot.jpg)
+![SEO](https://github.com/ciyer87/code-refactor-challenge/tree/main/assets/images/challenge1-screenshot.png)
