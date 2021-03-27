@@ -16,6 +16,7 @@ The following changes were made in the application:
 
 * refactored the code to use Semantic HTML (element clearly describes its meaning to both the browser and the developer)
 * replaced div element with Header, nav, Section, Footer where applicable.
+* added id element to help users navigate to the corresponding section when nav links are clicked
 * reduced the number of class used within section
 * fixed the title element
 * added alt attribute for accessiblity
