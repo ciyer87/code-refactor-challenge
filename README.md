@@ -1,4 +1,4 @@
-# code-refactor-challenge
+# code-refactor
 
 This application is about refactoring an existing webpage and make it accessible.  
 
