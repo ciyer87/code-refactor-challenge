@@ -6,5 +6,5 @@ This challenge is about refactoring an existing webpage and make it accessible. 
 
   ![A website with a navigation, a hero image, sections on the left and center and a footer](assets/images/challenge1-screenshot.png)
   
-*  The URL of the GitHub repository that contains the code: (code-refactor-challenge/  
-*  The URL of the deployed application: (https://ciyer87.github.io/code-refactor-challenge/![image](https://user-images.githubusercontent.com/65265573/112707708-72490e00-8e6a-11eb-8e31-0ee16803f628.png)
+*  The URL of the GitHub repository that contains the code: (https://github.com/ciyer87/code-refactor-challenge) 
+*  The URL of the deployed application: (https://ciyer87.github.io/code-refactor-challenge)
