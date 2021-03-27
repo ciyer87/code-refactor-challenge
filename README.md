@@ -4,5 +4,5 @@ This challenge is about refactoring an existing webpage and make it accessible. 
 
 The following image shows the web application's appearance and functionality:
 
-![GitHub Logo](/images/challenge1-screenshot.jpg)
-Format: ![Search engine optimization](/images/challenge1-screenshot.jpg)
+![GitHub Logo](/images/challenge1-screenshot.png)
+Format: ![Search engine optimization](/images/challenge1-screenshot.png)
