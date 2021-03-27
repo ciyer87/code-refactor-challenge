@@ -73,7 +73,7 @@ header a {
     background-color: #2589bd;
 }
 
-.benefits div {
+.benefits article {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -107,7 +107,7 @@ header a {
     float: right;
     margin-left: 25px;
 }
-.content div {
+.content article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -133,9 +133,10 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h4 {
     font-size: 20px;
 }
+
 
 
 /* footer style end */
